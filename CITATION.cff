@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TRISIKON: a dynamical-systems and information-theoretic formalism"
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Herho
+    given-names: Sandy Hardian Susanto
+    affiliation: "Applied Geology Research Group, Institut Teknologi Bandung"
+    email: sandyherho@itb.ac.id
+  - family-names: Biosa
+    given-names: Sito Fossy
+  - family-names: Suwarman
+    given-names: Rusmawan
+  - family-names: Irawan
+    given-names: Dasapta Erwin

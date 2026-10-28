@@ -1,0 +1,18 @@
+Lyapunov spectra and the exact sum rule
+=======================================
+
+per case at the chaotic-end dissipation
+---------------------------------------
+A Classical Order: lambda = [+0.0058, -0.0456, -0.8902]
+   D_KY = 1.128   h_KS = 0.0058
+   sum = -0.930000   exact -(b1+b2+b3) = -0.930000   residual = +7.07e-10
+B Dialectic Breath: lambda = [-0.0018, -0.0069, -0.4713]
+   D_KY = 0.000   h_KS = 0.0000
+   sum = -0.480000   exact -(b1+b2+b3) = -0.480000   residual = -9.03e-11
+C Deconstruction: lambda = [+0.0008, -0.0199, -0.3259]
+   D_KY = 1.041   h_KS = 0.0008
+   sum = -0.345000   exact -(b1+b2+b3) = -0.345000   residual = +6.35e-12
+D Mode Dominance: lambda = [-0.0002, -0.0921, -0.3973]
+   D_KY = 0.000   h_KS = 0.0000
+   sum = -0.489600   exact -(b1+b2+b3) = -0.489600   residual = +9.72e-11
+

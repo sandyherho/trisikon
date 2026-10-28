@@ -1,0 +1,19 @@
+Open items and limitations
+==========================
+
+notes
+-----
+TRISIKON as a cinematic concept is taken from the user description;
+its mapping to the Thomas flow is a formal analogy, not an empirical
+claim about film practice.
+
+Per-case Lyapunov and complexity points are evaluated at the
+chaotic-end dissipation of each case, a representative choice; the
+full route to chaos is in the dissipation sweep (fig02).
+
+The Thomas flow is weakly chaotic, so the positive exponent is small;
+the sum rule nonetheless pins the full spectrum to machine accuracy.
+
+Case D breaks the cyclic symmetry and is best read as a boundary of
+the concept rather than a member of it.
+

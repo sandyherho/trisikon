@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trisikon"
+version = "0.1.0"
+description = "Dynamical-systems and information-theoretic formalism of a tri-modal compositional principle."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Sandy Hardian Susanto Herho", email = "sandyherho@itb.ac.id"},
+    {name = "Sito Fossy Biosa"},
+    {name = "Rusmawan Suwarman"},
+    {name = "Dasapta Erwin Irawan"},
+]
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "matplotlib>=3.7",
+    "pillow>=10.0",
+    "ordpy>=1.1",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7.0"]
+
+[tool.setuptools]
+packages = ["trisikon"]

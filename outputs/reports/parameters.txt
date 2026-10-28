@@ -1,0 +1,18 @@
+Parameters
+==========
+
+configuration
+-------------
+package version: 0.1.0
+seed: 7
+integration step dt: 0.025
+breathing period: 12.0 s
+realized trajectory: 200000 steps at dt=0.02
+embedding: dx=5, tau=79
+
+cases (b_harmony, b_chaos, damping ratio):
+  A Classical Order: 0.4, 0.31, (1.0, 1.0, 1.0)
+  B Dialectic Breath: 0.315, 0.16, (1.0, 1.0, 1.0)
+  C Deconstruction: 0.22, 0.115, (1.0, 1.0, 1.0)
+  D Mode Dominance: 0.315, 0.16, (0.7, 1.18, 1.18)
+

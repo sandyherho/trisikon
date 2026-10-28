@@ -1,0 +1,15 @@
+References
+==========
+
+works cited
+-----------
+Thomas, R. (1999). Int. J. Bifurcation Chaos 9, 1889.
+Benettin, G. et al. (1980). Meccanica 15, 9.
+Kaplan, J. L. & Yorke, J. A. (1979). LNM 730, 204.
+Pesin, Ya. B. (1977). Russ. Math. Surv. 32, 55.
+Kozachenko, L. F. & Leonenko, N. N. (1987). Probl. Inf. Transm. 23, 95.
+Bandt, C. & Pompe, B. (2002). Phys. Rev. Lett. 88, 174102.
+Lamberti, P. W. et al. (2004). Physica A 334, 119.
+Rosso, O. A. et al. (2007). Phys. Rev. Lett. 99, 154102.
+Pessa, A. A. B. & Ribeiro, H. V. (2021). Chaos 31, 063110 (ordpy).
+
